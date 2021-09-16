@@ -26,7 +26,7 @@ namespace SimpleAlgorithms
 
 
             //Constant in this example means that it'll only perform the action a pre designed amount of times and therefore
-            //can be used for scalable databases or searching for stored variables in a collection
+            //can not be used for scalable databases or searching for stored variables in a collection because it requires manual adjustment each time
 
                 void ConstantBigOExample(int[] example)
             {
