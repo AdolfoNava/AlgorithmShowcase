@@ -17,7 +17,7 @@ namespace CsvReadCollections
             //As my build is through debug for testing path will lead to a dead end which is why the full address of the files
             //is $"{path}\\..\\..\\..\\csvfiles\\values1.csv" because it can be very flexible
             this.path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            FiletoCall = "valuesRANDOM";
+            FiletoCall = "HardestRandomValues";
             newFileName = "NewFile";
             
 
