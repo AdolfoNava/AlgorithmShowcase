@@ -19,10 +19,14 @@ Example:
 ## Table of Contents
 Week 1: Simple BigO notation https://github.com/AdolfoNava/AlgorithmShowcase/blob/f9f9a66c9b05c2048d26a1f6618a459891980325/SimpleAlgorithms/Program.cs
 
-Week 2: To be implemented
+Made in .NetFramework 4.7.2
+
+Week 2: Quicksort example with csv file read and writer https://github.com/AdolfoNava/AlgorithmShowcase/blob/master/QuickSortConsoleApp/QuickSorter.cs
+
+Made in .NetCore 3.1 
 
 etc.
 ## Resources
-Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2
+Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 and .NetCore 3.1
 
 To be updated if there is pre-requisite items outside of the git repository 
