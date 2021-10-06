@@ -29,4 +29,6 @@ etc.
 ## Resources
 Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 and .NetCore 3.1
 
+For Week 2 I looked up a c# quicksort algorithmn implementation on youtube went to this video and combined with my prior project before this class with a csv file read and write program https://youtu.be/wygsfgtpApI
+
 To be updated if there is pre-requisite items outside of the git repository 
