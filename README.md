@@ -35,4 +35,5 @@ Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 
 For Week 2 I looked up a c# quicksort algorithmn implementation on youtube went to this video and combined with my prior project before this class with a csv file read and write program https://youtu.be/wygsfgtpApI
 
 For Week 3 I used Daniel knights 2 part demonstration of the algorithmn in action as the basis for the app and is more flexible than last week's work https://youtu.be/H5LGwDanx2U 
+
 To be updated if there is pre-requisite items outside of the git repository 
