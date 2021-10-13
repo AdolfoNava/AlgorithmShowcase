@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSortConsoleApp", "Quic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisher-YatesShuffle", "Fisher-YatesShuffle\Fisher-YatesShuffle.csproj", "{9103BCA2-D78C-4F0C-B376-625D06F35378}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONObjectQuickSort", "JSONObjectQuickSort\JSONObjectQuickSort.csproj", "{7B8F66D8-F1B0-4DC8-9A98-474D8C061984}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8F66D8-F1B0-4DC8-9A98-474D8C061984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8F66D8-F1B0-4DC8-9A98-474D8C061984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8F66D8-F1B0-4DC8-9A98-474D8C061984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8F66D8-F1B0-4DC8-9A98-474D8C061984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,44 @@
+﻿[
+  {
+    "firstName": "Sam",
+    "lastName": "Grover",
+    "gender": "Female",
+    "salary": 50000,
+      "id":  1
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Baker",
+    "gender": "Female",
+    "salary": 100000,
+    "id": 2
+  },
+  {
+    "firstName": "Timmy",
+    "lastName": "Baker",
+    "gender": "PreferNotStated",
+    "salary": 60000,
+    "id": 5
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Baker",
+    "gender": "Male",
+    "salary": 80000,
+    "id": 3
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Baker",
+    "gender": "Male",
+    "salary": 90000,
+    "id": 6
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Baker",
+    "gender": "Male",
+    "salary": 10000,
+    "id": 4
+  }
+] 
