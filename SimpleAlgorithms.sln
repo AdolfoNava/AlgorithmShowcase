@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAlgorithms", "SimpleA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSortConsoleApp", "QuickSortConsoleApp\QuickSortConsoleApp.csproj", "{FAF2E47E-2CC8-45A8-8ED1-B1F83B547D9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisher-YatesShuffle", "Fisher-YatesShuffle\Fisher-YatesShuffle.csproj", "{9103BCA2-D78C-4F0C-B376-625D06F35378}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FAF2E47E-2CC8-45A8-8ED1-B1F83B547D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF2E47E-2CC8-45A8-8ED1-B1F83B547D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAF2E47E-2CC8-45A8-8ED1-B1F83B547D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9103BCA2-D78C-4F0C-B376-625D06F35378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

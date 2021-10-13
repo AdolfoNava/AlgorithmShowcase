@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Fisher_YatesShuffle</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="files\testtext.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>testtext.txt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="files\testtext.txt">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>testtext.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
