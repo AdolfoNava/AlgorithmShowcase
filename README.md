@@ -27,6 +27,8 @@ Made in .NetCore 3.1
 
 week 3: Fisher-Yates Shuffle Implementation https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/Fisher-YatesShuffle
 
+week 3 cont: JSONQuickSort verison https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/JSONObjectQuickSort
+
 etc.
 
 ## Resources
@@ -34,6 +36,9 @@ Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 
 
 For Week 2 I looked up a c# quicksort algorithmn implementation on youtube went to this video and combined with my prior project before this class with a csv file read and write program https://youtu.be/wygsfgtpApI
 
-For Week 3 I used Daniel knights 2 part demonstration of the algorithmn in action as the basis for the app and is more flexible than last week's work https://youtu.be/H5LGwDanx2U 
+For Week 3 I used Daniel knights 2 part demonstration of the algorithmn in action as the basis for the app and is more flexible than last week's work https://youtu.be/H5LGwDanx2
+
+For the reading the json files install Newtonsoft.Json 13.0.1
 
 To be updated if there is pre-requisite items outside of the git repository 
+
