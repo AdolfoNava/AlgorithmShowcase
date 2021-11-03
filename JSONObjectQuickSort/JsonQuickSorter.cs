@@ -42,16 +42,16 @@ id number: {person.id}
             var i = left;
             var j = right;
             //The main
-            var pivot = list[(left + right) / 2].id;
+            var pivot = list[(left + right) / 2].salary;
 
             while (i <= j)
             {
                 //These are the bounds of the method call and will determine the exact array slot for the transfer to commence
-                while (list[i].id < pivot)
+                while (list[i].salary < pivot)
                 {
                     i++;
                 }
-                while (list[j].id > pivot)
+                while (list[j].salary > pivot)
                 {
                     j--;
                 }
