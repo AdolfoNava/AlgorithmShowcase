@@ -60,6 +60,8 @@ namespace SimpleDataStructures
             //Content in the csv file is now stored in the Dictionary(map) string = key int = values object
             for (int i = 0; i < 10; i++)
             {
+                //This will be for the unique key name because the program will
+                //fail without having every string being unique
                 switch (i)
                 {
                     case 0:
