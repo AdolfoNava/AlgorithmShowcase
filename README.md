@@ -31,6 +31,8 @@ week 3 cont: JSONQuickSort verison https://github.com/AdolfoNava/AlgorithmShowca
 
 week 4 Simple Data Structure with comparison and contrast https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/SimpleDataStructures
 
+week 5 Data Sorting Comparisons https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/ValueSorterComparison
+
 etc.
 
 ## Resources
