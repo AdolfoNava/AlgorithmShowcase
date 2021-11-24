@@ -5,6 +5,10 @@ using CsvReadCollections;
 
 namespace QuickSortConsoleApp
 {
+    //Below the class is the pseudocode of the entire process
+
+    //This algorithm's best case is O(n log n)
+    //This algorithm's worst case is O(n^2)
     public class QuickSorter
     {
         CSVManipulator csvManip;
@@ -21,19 +25,20 @@ namespace QuickSortConsoleApp
             foreach(int value in csvManip.intValues)
             {
                 Console.WriteLine(value);
+                Console.ReadKey(true);
             }
             Console.ReadKey(true);
             
             csvManip.MakeCSV(csvManip.intValues);
         }
         //This system is to begin the potential sorting of whatever method I wish to call later in the solutino as I bring in new projects and act accordingly
-        private static void SortArray(int[] numbers)
+        private void SortArray(int[] numbers)
         {
             Quicksort(numbers, 0, numbers.Length - 1);
         }
         //The main function of the entire app The Quicksort is the algorithmn at work
         
-        private static void Quicksort(int[]numbers, int left,int right)
+        private void Quicksort(int[]numbers, int left,int right)
         {
             //The left and right are the bounds of the function and to re iterate the values
             var i = left;
@@ -72,4 +77,11 @@ namespace QuickSortConsoleApp
             }
         }
     }
+    //algorithm quicksort(A, lo, hi) is
+    //if lo<hi then
+    //    p := pivot(A, lo, hi)
+    ///     note: multiple return values
+    //    left, right := partition(A, p, lo, hi)  
+    //    quicksort(A, lo, left - 1)
+    //    quicksort(A, right + 1, hi)
 }
