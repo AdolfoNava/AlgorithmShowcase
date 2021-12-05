@@ -11,7 +11,7 @@ namespace QuickSortConsoleApp
     //This algorithm's worst case is O(n^2)
     public class QuickSorter
     {
-        CSVManipulator csvManip;
+        public CSVManipulator csvManip;
 
         public QuickSorter()
         {
@@ -22,14 +22,17 @@ namespace QuickSortConsoleApp
             //The main function of this particular project is to conduct an Quick sort array where it can call function and be manually adding new sorting functions later on if I so choose to make
             SortArray(csvManip.intValues);
             //This display to the console the numbers that were just sorted through
-            foreach(int value in csvManip.intValues)
-            {
-                Console.WriteLine(value);
-                Console.ReadKey(true);
-            }
-            Console.ReadKey(true);
             
-            csvManip.MakeCSV(csvManip.intValues);
+            //This part is commented out for the sake of other demos in the solution
+            
+            //foreach(int value in csvManip.intValues)
+            {
+                //Console.WriteLine(value);
+                //Console.ReadKey(true);
+            }
+            //Console.ReadKey(true);
+            
+            //csvManip.MakeCSV(csvManip.intValues);
         }
         //This system is to begin the potential sorting of whatever method I wish to call later in the solutino as I bring in new projects and act accordingly
         private void SortArray(int[] numbers)
