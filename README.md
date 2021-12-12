@@ -29,9 +29,11 @@ week 3: Fisher-Yates Shuffle Implementation https://github.com/AdolfoNava/Algori
 
 week 3 cont: JSONQuickSort verison https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/JSONObjectQuickSort
 
-week 4 Simple Data Structure with comparison and contrast https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/SimpleDataStructures
+week 4: Simple Data Structure with comparison and contrast https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/SimpleDataStructures
 
-week 5 Data Sorting Comparisons https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/ValueSorterComparison
+week 5: Data Sorting Comparisons https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/ValueSorterComparison
+
+week 6: Basic Data Searching Algorithm https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/BasicSearchingAlgorithm
 
 etc.
 
