@@ -35,7 +35,7 @@ week 5: Data Sorting Comparisons https://github.com/AdolfoNava/AlgorithmShowcase
 
 week 6: Basic Data Searching Algorithm https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/BasicSearchingAlgorithm
 
-etc.
+week 7: Tree Sturctures: https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/TreeSystems
 
 ## Resources
 Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 and .NetCore 3.1
