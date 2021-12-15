@@ -37,6 +37,13 @@ week 6: Basic Data Searching Algorithm https://github.com/AdolfoNava/AlgorithmSh
 
 week 7: Tree Sturctures: https://github.com/AdolfoNava/AlgorithmShowcase/tree/master/TreeSystems
 
+## Side Projects
+Poker Hand Evaluator:
+https://github.com/AdolfoNava/Poker-Hand-Evaluator
+
+A* Pathfinding Unity:
+https://github.com/AdolfoNava/A-Star-pathfinding-system
+
 ## Resources
 Developed in VS 2019 Community build 16.11.2 C# Console App .NetFramework 4.7.2 and .NetCore 3.1
 
